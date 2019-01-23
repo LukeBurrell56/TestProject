@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="WH40.xslt"?>
+<Characters>
+	<Character>
+		<HomeWorld>Research Station World</HomeWorld>
+		<Background>Chriurgeon</Background>
+		<Career>Adeptus Administrum</Career>
+		<Fate>3</Fate>
+		<HP>8+1d5</HP>
+		<Aptitudes>
+			<Aptitude1>Knowledge</Aptitude1>
+			<Aptitude2>Intelligence</Aptitude2>
+			<Aptitude3>Perception</Aptitude3>
+			<Aptitude4>Fellowship</Aptitude4>
+			<Aptitude5>Fieldcraft</Aptitude5>
+			<Aptitude6>Social</Aptitude6>
+			<Aptitude7>Ballistics Skill</Aptitude7>
+			<Aptitude8>Strength</Aptitude8>
+			<Aptitude9>Toughness</Aptitude9></Aptitudes>
+		<Power><PowerName></PowerName><PowerDescription>Automatically succeed a failed First Aid test with degrees of success equal to Int bonus</PowerDescription></Power>
+			<AbilScrs><AbilScr><AbilScrName>Weapons Skill</AbilScrName><AbilScrValue>29</AbilScrValue><AbilScrCostLvl1>500</AbilScrCostLvl1><AbilScrCostLvl2>750</AbilScrCostLvl2><AbilScrCostLvl3>1000</AbilScrCostLvl3><AbilScrCostLvl4>1500</AbilScrCostLvl4><AbilScrCostLvl5>2500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Ballistics Skill</AbilScrName><AbilScrValue>34</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Acrobatics</AbilScrName><AbilScrValue>28</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Toughness</AbilScrName><AbilScrValue>35</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Agility</AbilScrName><AbilScrValue>31</AbilScrValue><AbilScrCostLvl1>500</AbilScrCostLvl1><AbilScrCostLvl2>750</AbilScrCostLvl2><AbilScrCostLvl3>1000</AbilScrCostLvl3><AbilScrCostLvl4>1500</AbilScrCostLvl4><AbilScrCostLvl5>2500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Intelligence</AbilScrName><AbilScrValue>31</AbilScrValue><AbilScrCostLvl1>100</AbilScrCostLvl1><AbilScrCostLvl2>250</AbilScrCostLvl2><AbilScrCostLvl3>500</AbilScrCostLvl3><AbilScrCostLvl4>150</AbilScrCostLvl4><AbilScrCostLvl5>1250</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Perception</AbilScrName><AbilScrValue>34</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Willpower</AbilScrName><AbilScrValue>40</AbilScrValue><AbilScrCostLvl1>500</AbilScrCostLvl1><AbilScrCostLvl2>750</AbilScrCostLvl2><AbilScrCostLvl3>1000</AbilScrCostLvl3><AbilScrCostLvl4>1500</AbilScrCostLvl4><AbilScrCostLvl5>2500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Fellowship</AbilScrName><AbilScrValue>20</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+				<AbilScr><AbilScrName>Influence</AbilScrName><AbilScrValue>37</AbilScrValue><AbilScrCostLvl1></AbilScrCostLvl1><AbilScrCostLvl2></AbilScrCostLvl2><AbilScrCostLvl3></AbilScrCostLvl3><AbilScrCostLvl4></AbilScrCostLvl4><AbilScrCostLvl5></AbilScrCostLvl5></AbilScr>
+			</AbilScrs>
+			<Skills>
+				<Skill><SkillName>Acrobatics</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Athletics</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Awareness</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Charm</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Command</SkillName><SkillCostLvl1>300</SkillCostLvl1><SkillCostLvl2>600</SkillCostLvl2><SkillCostLvl3>900</SkillCostLvl3><SkillCostLvl4>1200</SkillCostLvl4></Skill>
+				<Skill><SkillName>Commerce</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Common Lore</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Deceive</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Dodge</SkillName><SkillCostLvl1>300</SkillCostLvl1><SkillCostLvl2>600</SkillCostLvl2><SkillCostLvl3>900</SkillCostLvl3><SkillCostLvl4>1200</SkillCostLvl4></Skill>
+				<Skill><SkillName>Forbidden Lore</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Inquiry</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Interrogation</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Intimidate</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Linguistics</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Logic</SkillName><SkillCostLvl1>0</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Medicae</SkillName><SkillCostLvl1>0</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Navigate</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Operate</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Parry</SkillName><SkillCostLvl1>300</SkillCostLvl1><SkillCostLvl2>600</SkillCostLvl2><SkillCostLvl3>900</SkillCostLvl3><SkillCostLvl4>1200</SkillCostLvl4></Skill>
+				<Skill><SkillName>Psyniscience</SkillName><SkillCostLvl1>300</SkillCostLvl1><SkillCostLvl2>600</SkillCostLvl2><SkillCostLvl3>900</SkillCostLvl3><SkillCostLvl4>1200</SkillCostLvl4></Skill>
+				<Skill><SkillName>Scholastic Lore</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+				<Skill><SkillName>Scrutiny</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Security</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Sleight of Hand</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Stealth</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Survival</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Tech-use</SkillName><SkillCostLvl1>200</SkillCostLvl1><SkillCostLvl2>400</SkillCostLvl2><SkillCostLvl3>600</SkillCostLvl3><SkillCostLvl4>800</SkillCostLvl4></Skill>
+				<Skill><SkillName>Trade</SkillName><SkillCostLvl1>100</SkillCostLvl1><SkillCostLvl2>200</SkillCostLvl2><SkillCostLvl3>300</SkillCostLvl3><SkillCostLvl4>400</SkillCostLvl4></Skill>
+			</Skills>
+			<Merits>
+				<Merit><BMeritN>Ambidextrous</BMeritN><BMeritC>300</BMeritC><IMeritN>Armour-Monger</IMeritN><IMeritC>450</IMeritC><AMeritN>Adamantium Faith</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Blind Fighting</BMeritN><BMeritC>300</BMeritC><IMeritN>Battle Rage</IMeritN><IMeritC>450</IMeritC><AMeritN>Assassin Strike</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Catfall</BMeritN><BMeritC>300</BMeritC><IMeritN>Bulging Biceps</IMeritN><IMeritC>450</IMeritC><AMeritN>Bastion of Iron Will</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Clues from the Crowd</BMeritN><BMeritC>200</BMeritC><IMeritN>Combat Master</IMeritN><IMeritC>900</IMeritC><AMeritN>Blademaster</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Die Hard</BMeritN><BMeritC>600</BMeritC><IMeritN>Constant Vigilance</IMeritN><IMeritC>900</IMeritC><AMeritN>Crushing Blow</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Disarm</BMeritN><BMeritC>600</BMeritC><IMeritN>Contact Network</IMeritN><IMeritC>900</IMeritC><AMeritN>Deathdealer</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Double Team</BMeritN><BMeritC>300</BMeritC><IMeritN>Coordinated Interrogation</IMeritN><IMeritC>300</IMeritC><AMeritN>Delicate Interrogation</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Enemy</BMeritN><BMeritC>200</BMeritC><IMeritN>Counter Attack</IMeritN><IMeritC>900</IMeritC><AMeritN>Eye of Vengeance</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Ferric Summons</BMeritN><BMeritC>600</BMeritC><IMeritN>Cover-Up</IMeritN><IMeritC>300</IMeritC><AMeritN>Favoured by the Warp</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Frenzy</BMeritN><BMeritC>300</BMeritC><IMeritN>Deny the Witch</IMeritN><IMeritC>900</IMeritC><AMeritN>Flash of Insight</AMeritN><AMeritC>600</AMeritC></Merit>
+				<Merit><BMeritN>Iron Jaw</BMeritN><BMeritC>300</BMeritC><IMeritN>Devastating Assault</IMeritN><IMeritC>900</IMeritC><AMeritN>Halo of Command</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Jaded</BMeritN><BMeritC>600</BMeritC><IMeritN>Double Tap</IMeritN><IMeritC>900</IMeritC><AMeritN>Hammer Blow</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Keen Intuition</BMeritN><BMeritC>300</BMeritC><IMeritN>Exotic Weapon Training</IMeritN><IMeritC>450</IMeritC><AMeritN>Infused Knowledge</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Leap up</BMeritN><BMeritC>300</BMeritC><IMeritN>Face in a Crowd</IMeritN><IMeritC>450</IMeritC><AMeritN>Lightning Attack</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Nowhere to Hide</BMeritN><BMeritC>600</BMeritC><IMeritN>Hard Target</IMeritN><IMeritC>900</IMeritC><AMeritN>Luminen Attack</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Peer</BMeritN><BMeritC>300</BMeritC><IMeritN>Hardy</IMeritN><IMeritC>450</IMeritC><AMeritN>Mastery</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Quick Draw</BMeritN><BMeritC>600</BMeritC><IMeritN>Hatred</IMeritN><IMeritC>450</IMeritC><AMeritN>Mighty Shot</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Rapid Reload</BMeritN><BMeritC>300</BMeritC><IMeritN>Hip Shooting</IMeritN><IMeritC>450</IMeritC><AMeritN>Never Die</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Resistance</BMeritN><BMeritC>300</BMeritC><IMeritN>Independent Targeting</IMeritN><IMeritC>450</IMeritC><AMeritN>Preternatural Speed</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Sound Constitution</BMeritN><BMeritC>200</BMeritC><IMeritN>Inescapable Attack(Ball)</IMeritN><IMeritC>450</IMeritC><AMeritN>Sprint</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Takedown</BMeritN><BMeritC>600</BMeritC><IMeritN>Inescapable Attack(Weap)</IMeritN><IMeritC>900</IMeritC><AMeritN>Step Aside</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Technical Knock</BMeritN><BMeritC>300</BMeritC><IMeritN>Killing Strike</IMeritN><IMeritC>900</IMeritC><AMeritN>Superior Chirurgeon</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Warp Sense</BMeritN><BMeritC>600</BMeritC><IMeritN>Luminen Shock</IMeritN><IMeritC>900</IMeritC><AMeritN>Target Selection</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Weapon Tech</BMeritN><BMeritC>300</BMeritC><IMeritN>Maglev Transcendence</IMeritN><IMeritC>450</IMeritC><AMeritN>Thunder Charge</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Weapon Training</BMeritN><BMeritC>300</BMeritC><IMeritN>Marksman</IMeritN><IMeritC>450</IMeritC><AMeritN>True Grit</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN>Flagellant</BMeritN><BMeritC>300</BMeritC><IMeritN>Mechadendrite Use</IMeritN><IMeritC>450</IMeritC><AMeritN>Two Weapon Master</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Mounted Warrior(Ball)</BMeritN><BMeritC>300</BMeritC><IMeritN>Precision Killer(Ball)</IMeritN><IMeritC>450</IMeritC><AMeritN>Warp Lock</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Mounted Warrior(Weap)</BMeritN><BMeritC>600</BMeritC><IMeritN>Precision Killer(Weap)</IMeritN><IMeritC>900</IMeritC><AMeritN>Aegis of Contempt</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Grenadier</BMeritN><BMeritC>300</BMeritC><IMeritN>Prosanguine</IMeritN><IMeritC>450</IMeritC><AMeritN>Divine Protection</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Leaping Dodge</BMeritN><BMeritC>600</BMeritC><IMeritN>Strong Minded</IMeritN><IMeritC>900</IMeritC><AMeritN>Into the Jaws of Hell</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN>Skilled Rider</BMeritN><BMeritC>300</BMeritC><IMeritN>Swift Attack</IMeritN><IMeritC>900</IMeritC><AMeritN>Indomitable Conviction</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Two Weapon Wielder(Ball)</IMeritN><IMeritC>450</IMeritC><AMeritN>Hull down</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Two Weapon Wielder(Weap)</IMeritN><IMeritC>900</IMeritC><AMeritN>Push the Limit</AMeritN><AMeritC>1200</AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Unarmed Specialist</IMeritN><IMeritC>450</IMeritC><AMeritN>Weapon Intuition</AMeritN><AMeritC>400</AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Warp Conduit</IMeritN><IMeritC>900</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Whirlwind of Death</IMeritN><IMeritC>900</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Purity of Hatred</IMeritN><IMeritC>900</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Witch Finder</IMeritN><IMeritC>450</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Ambassador Imperialis</IMeritN><IMeritC>450</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Archivator</IMeritN><IMeritC>450</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Field Vivisection(Ball)</IMeritN><IMeritC>300</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Field Vivisection(Weap)	</IMeritN><IMeritC>450</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Hotshot Pilot</IMeritN><IMeritC>900</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Lexographer</IMeritN><IMeritC>300</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+				<Merit><BMeritN></BMeritN><BMeritC></BMeritC><IMeritN>Xenosavant</IMeritN><IMeritC>300</IMeritC><AMeritN></AMeritN><AMeritC></AMeritC></Merit>
+			</Merits>
+		<Enhancements>
+			<Enhancement><Cost>200</Cost><Brought>Awareness</Brought><Reason>Arkantos will try to further his skills noticing his environment, much like in the Market spotting the other Agent</Reason></Enhancement>
+			<Enhancement><Cost>200</Cost><Brought>Peer (Hive Sibellus Arbitrators)</Brought><Reason>Arkantos's time helping the Arbitrators of the IO Spire has given him a good standing with this group of people</Reason></Enhancement>
+			<Enhancement><Cost>500</Cost><Brought>Tough</Brought><Reason>The hard day's tracking leads without respite, chasing the other Agent through the hive streets and lugging so much around has minorly improved his fitness</Reason></Enhancement>
+			<Enhancement><Cost>500</Cost><Brought>Willpower</Brought><Reason>Arkantos's experience with both mundane and supernatural horrors has tested his minds resolve, and while stretched it is not broken. Only more prepared for the future</Reason></Enhancement>
+			<Enhancement><Cost>750</Cost><Brought>Willpower</Brought><Reason>Arkantos's experience with both mundane and supernatural horrors has tested his minds resolve, and while stretched it is not broken. Only more prepared for the future</Reason></Enhancement>
+			<Enhancement><Cost>100</Cost><Brought>Intelligence</Brought><Reason>The tests on his mental faculty have revealed new potentials he didn't know he had.</Reason></Enhancement>
+			<Enhancement><Cost>100</Cost><Brought>Trade(Armorer)</Brought><Reason>His pre-existing knowledge of commerce and his new experience with a multitude of Firearms, Armour and Explosives have given experience to allow Arkantos's logical mind to work out several ways to craft and improve weapons</Reason></Enhancement>
+			<Enhancement><Cost>300</Cost><Brought>Armour-Monger</Brought><Reason>Studying both Arbitrator armour and Albins armour, he has seen where his own might be improved</Reason></Enhancement>
+			<Enhancement><Cost>100</Cost><Brought>Fellowship</Brought><Reason>his extended interactions with both team mates and others has given him a more comprehensive understanding of the minds of others</Reason></Enhancement>
+			<Enhancement><Cost>200</Cost><Brought>Charm</Brought><Reason>Using his skills with the Trader has furthered his understand of how negotiations work from a theoretical to practical point of view</Reason></Enhancement>
+			<Enhancement><Cost>100</Cost><Brought>Deceive</Brought><Reason>The knowledge gained from understanding people better, has given him several ideas on how to potentially deceive people</Reason></Enhancement>
+			<Enhancement><Cost>300</Cost><Brought>Stealth</Brought><Reason>Arkantos's time in the Warehouse has taught his how to improve on his ability to move unseen, putting this into practice by walking more softly and discreetly</Reason></Enhancement>
+			<Enhancement><Cost>250</Cost><Brought>Intelligence</Brought><Reason>Arkantos's raw powers deductive reasoning have truely been tested on this case, and he has risen to the challenge as best possible, using medical, technical, logic and reasoning to push for clues.</Reason></Enhancement>
+			<Enhancement><Cost>250</Cost><Brought>Ballistic Skill</Brought><Reason></Reason></Enhancement>
+			<Enhancement><Cost>600</Cost><Brought>Jaded</Brought><Reason>Arkantos's had believed his medical training had hardened him from scenes of gore, but the reality of an unfettered brutal world away from a clinical setting of cadaveurs has really brought home that these are living people not simply bodies. The dark real of the unmasked before him, where people like Albin survive and even thrive, has truely Jaded his logical mind forcing it to accept the horror of reality, not least from the deaths he has directly caused.</Reason></Enhancement>
+			<Enhancement><Cost>200</Cost><Brought>Trade(Armorer)</Brought><Reason>The knowledge Arkantos has gained from studying his weapon as well as the attachments on his existing weapons. He's more versed in maintaining firearms and making enhancements.</Reason></Enhancement>
+			<Enhancement><Cost>200</Cost><Brought>Acrobatics</Brought><Reason></Reason></Enhancement>
+			<Enhancement><Cost>200</Cost><Brought>Scrutiny</Brought><Reason></Reason></Enhancement>
+			<Enhancement><Cost>200</Cost><Brought>Tech-Use</Brought><Reason></Reason></Enhancement>
+			<Enhancement><Cost>300</Cost><Brought>Weapon-Training</Brought><Reason></Reason></Enhancement>
+			<Enhancement><Cost>300</Cost><Brought>Sound-Constitution</Brought><Reason></Reason></Enhancement>
+			<Enhancement><Cost>100</Cost><Brought>Inquiry</Brought><Reason>Arkantos's time interviewing people while on a case as well as locating items for use has given him experince in using Inquiry.</Reason></Enhancement>
+			<Enhancement><Cost>100</Cost><Brought>Security</Brought><Reason></Reason></Enhancement>
+		</Enhancements>
+	</Character>
+</Characters>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Characters.xslt"?>
+<Characters>
+	<Character>
+		<HomeWorld>Research Station World</HomeWorld>
+		<Background>Chriurgeon</Background>
+		<Career>Adeptus Administrum</Career>
+		<Fate>3</Fate>
+		<HP>8+1d5</HP>
+		<Aptitudes>
+			<Aptitude1>Knowledge</Aptitude1>
+			<Aptitude2>Intelligence</Aptitude2>
+			<Aptitude3>Perception</Aptitude3>
+			<Aptitude4>Fellowship</Aptitude4>
+			<Aptitude5>Fieldcraft</Aptitude5>
+			<Aptitude6>Social</Aptitude6>
+			<Aptitude7>Ballistics Skill</Aptitude7>
+			<Aptitude8>Strength</Aptitude8>
+			<Aptitude9>Toughness</Aptitude9></Aptitudes>
+		<Power><PowerName></PowerName><PowerDescription>Automatically succeed a failed First Aid test with degrees of success equal to Int bonus</PowerDescription></Power>
+		<AbilScrs><AbilScr><AbilScrName>Weapons Skill</AbilScrName><AbilScrValue>29</AbilScrValue><AbilScrCostLvl1>500</AbilScrCostLvl1><AbilScrCostLvl2>750</AbilScrCostLvl2><AbilScrCostLvl3>1000</AbilScrCostLvl3><AbilScrCostLvl4>1500</AbilScrCostLvl4><AbilScrCostLvl5>2500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Ballistics Skill</AbilScrName><AbilScrValue>34</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Acrobatics</AbilScrName><AbilScrValue>28</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Toughness</AbilScrName><AbilScrValue>35</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Agility</AbilScrName><AbilScrValue>31</AbilScrValue><AbilScrCostLvl1>500</AbilScrCostLvl1><AbilScrCostLvl2>750</AbilScrCostLvl2><AbilScrCostLvl3>1000</AbilScrCostLvl3><AbilScrCostLvl4>1500</AbilScrCostLvl4><AbilScrCostLvl5>2500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Intelligence</AbilScrName><AbilScrValue>31</AbilScrValue><AbilScrCostLvl1>100</AbilScrCostLvl1><AbilScrCostLvl2>250</AbilScrCostLvl2><AbilScrCostLvl3>500</AbilScrCostLvl3><AbilScrCostLvl4>150</AbilScrCostLvl4><AbilScrCostLvl5>1250</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Perception</AbilScrName><AbilScrValue>34</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Willpower</AbilScrName><AbilScrValue>40</AbilScrValue><AbilScrCostLvl1>500</AbilScrCostLvl1><AbilScrCostLvl2>750</AbilScrCostLvl2><AbilScrCostLvl3>1000</AbilScrCostLvl3><AbilScrCostLvl4>1500</AbilScrCostLvl4><AbilScrCostLvl5>2500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Fellowship</AbilScrName><AbilScrValue>20</AbilScrValue><AbilScrCostLvl1>250</AbilScrCostLvl1><AbilScrCostLvl2>500</AbilScrCostLvl2><AbilScrCostLvl3>750</AbilScrCostLvl3><AbilScrCostLvl4>1000</AbilScrCostLvl4><AbilScrCostLvl5>1500</AbilScrCostLvl5></AbilScr>
+		  <AbilScr><AbilScrName>Influence</AbilScrName><AbilScrValue>37</AbilScrValue><AbilScrCostLvl1></AbilScrCostLvl1><AbilScrCostLvl2></AbilScrCostLvl2><AbilScrCostLvl3></AbilScrCostLvl3><AbilScrCostLvl4></AbilScrCostLvl4><AbilScrCostLvl5></AbilScrCostLvl5></AbilScr>
+		</AbilScrs>
+	</Character>
+</Characters>
