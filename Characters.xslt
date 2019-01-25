@@ -49,5 +49,6 @@
               </tr>
             </xsl:for-each>
           </table>
+    </xsl:for-each>
   </xsl:template>
 </xsl:stylesheet>
